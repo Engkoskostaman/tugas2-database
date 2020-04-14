@@ -1,0 +1,9 @@
+1)
+•	baris atau row disebut sebagai tuple. 
+•	kolom atau column disebut juga sebagai attribute
+•	Relasi merupakan istilah dalam relational database, tapi kita lebih familiar
+
+2)1.NPM,Nama,Jenis Kelamin,Jurusan,IPK
+  2.NPM,Nama,Jenis Kelamin
+  3.Andi Gunawan,Leshi Puspitasari,Maximilianus Antho,Laki-Laki,Perempuan,Akutansi,Hukum,Ilmu Komputer
+3) candidate key (kunci kandidat). Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut. Selain tidak boleh ada data yang sama, kolom yang dikategorikan sebagai candidate key juga tidak boleh memiliki data kosong.   
